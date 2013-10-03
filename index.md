@@ -10,6 +10,7 @@ Some of our MPs think that they know better than 97% of climate scientists, and 
 | [David Davies](http://www.theyworkforyou.com/mp/?m=40407) | Monmouth | Conservative | [hansard](http://www.theyworkforyou.com/whall/?gid=2013-09-10a.236.5) |
 | [Philip Davis](http://www.theyworkforyou.com/mp/?m=40531) | Shipley | Conservative | [hansard](http://www.theyworkforyou.com/whall/?gid=2013-09-10a.236.2) |
 | [Peter Lilley](http://www.theyworkforyou.com/mp/?m=40318)| Hitchin and Harpenden | Conservative | [hansard](http://www.theyworkforyou.com/whall/?gid=2013-09-10a.246.1) |
+| [Owen Patterson](http://www.theyworkforyou.com/mp/10473/owen_paterson/north_shropshire) | North Shropshire | Conservative | [guardian](http://www.theguardian.com/environment/2013/sep/30/owen-paterson-minister-climate-change-advantages) |
 
 # Contributing
 
